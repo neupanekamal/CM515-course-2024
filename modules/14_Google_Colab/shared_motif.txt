@@ -1,6 +1,0 @@
->Rosalind_1
-GATTACATG
->Rosalind_2
-TAGACATGCA
->Rosalind_3
-ATACATGA
